@@ -1,2 +1,1 @@
-# sem5
-Everything Semester 5!
+# Everything Semester 5! :tada:
