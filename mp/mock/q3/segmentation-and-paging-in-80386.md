@@ -52,7 +52,7 @@ Thus paging mechanism provides an effective technique to manage the physical mem
 * The paging unit converts the complete map of a task into pages, each of size 4K. The task is further handled in terms of its page, rather than segments.
 * The paging unit handles every task in terms of three components namely page directory, page tables and page itself.
 
-![](assets/80386-paging-1.png)
+![](https://i.imgur.com/50dMABk.png)
 
 <hr />
 
