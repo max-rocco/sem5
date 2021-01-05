@@ -10,7 +10,7 @@ They are used for separating the valid address from the multiplexed address/data
 
 **Configuration Diagram**
 
-![](assets/min-mode-8086.png)
+![](https://i.imgur.com/fpsAI1d.png)
 
 * Transreceivers are the bidirectional buffers and some times they are
 called as data amplifiers. They are required to separate the valid data
@@ -70,7 +70,7 @@ and the available control and advanced command signals.
 
 **Configuration Diagram**
 
-![](assets/max-mode-8086.png)
+![](https://i.imgur.com/rPiRM0S.png)
 
 * R0, S1, S2 are set at the beginning of bus cycle.8288 bus controller will
 output a pulse as on the ALE and apply a required signal to its DT / R
