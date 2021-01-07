@@ -8,20 +8,6 @@
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
 
     {% seo %}
-    
-    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/instantsearch.js@2.10.4/dist/instantsearch.min.css">
-    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/instantsearch.js@2.10.4/dist/instantsearch-theme-algolia.min.css">
-    <script src="https://cdn.jsdelivr.net/npm/instantsearch.js@2.10.4"></script>
-
-    <!-- Search -->
-    {% if page.tipue_search_active or layout.tipue_search_active %}
-      <link rel="stylesheet" href="{{ "/assets/tipuesearch/css/normalize.css" | relative_url }}">
-      <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
-      <script src="{{ "/assets/tipuesearch/tipuesearch_content.js" | relative_url }}"></script>
-      <link rel="stylesheet" href="{{ "/assets/tipuesearch/css/tipuesearch.css" | relative_url }}">
-      <script src="{{ "/assets/tipuesearch/tipuesearch_set.js" | relative_url }}"></script>
-      <script src="{{ "/assets/tipuesearch/tipuesearch.min.js" | relative_url }}"></script>
-    {% endif %}
   </head>
 
   <body class="sem5">
@@ -48,40 +34,6 @@
         {{ content }}
       </section>
     </div>
-    
-    <div id="search-box">
-      <!-- SearchBox widget will appear here -->
-    </div>
-
-    <div id="hits">
-      <!-- Hits widget will appear here -->
-    </div>
-
-    <script>
-      const search = instantsearch({
-        appId: "K28DR6OMX5",
-        apiKey: "748b43b25b823809a17307fa5f043d2b",
-        indexName: "solutions.sem5.tk",
-        routing: true,
-      });
-
-      // initialize SearchBox
-      search.addWidget(
-        instantsearch.widgets.searchBox({
-          container: "#search-box",
-          placeholder: "Search for products",
-        })
-      );
-
-      // initialize hits widget
-      search.addWidget(
-        instantsearch.widgets.hits({
-          container: "#hits",
-        })
-      );
-
-      search.start();
-    </script>
 
   </body>
 </html>
