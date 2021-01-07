@@ -1,4 +1,4 @@
- [`🏠`](/) / [`Microprocessors`](/mp/) / [`Mock`](/mp/mock/) / [`Q3`](/mp/mock/q3/) / `Write an assembly language program to reverse a string.`
+[`🏠`](/) / [`Microprocessors`](/mp/) / [`Mock`](/mp/mock/) / [`Q3`](/mp/mock/q3/) / `Write an assembly language program to reverse a string.`
 
 <hr />
 
