@@ -1,4 +1,10 @@
-[`🏠`](/) `|` [`Microprocessors Root`](/mp/) `|` [`Previous Years Solutions`](/mp/previous-years/may-19/)
+[`🏠`](/) / [`Microprocessors`](/mp/) / [`MCQs`](/mp/mcqs/)
+ 
+<hr />
+
+[`Previous Years Solutions (May '19)`](/mp/previous-years/may-19/) [`MCQs`](/mp/mcqs/)
+
+<hr />
 
 ## Micrprocessors MCQ Questions
 
