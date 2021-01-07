@@ -1,4 +1,8 @@
-# Q. Explain segmentation & paging mechanism in 80386.
+[`🏠`](/) / [`Microprocessors`](/mp/) / [`Mock`](/mp/mock/) / [`Q3`](/mp/mock/q3/) / `Explain segmentation & paging mechanism in 80386.`
+
+<hr />
+
+### Q. Explain segmentation & paging mechanism in 80386.
 
 A. **Segmentation**
 
