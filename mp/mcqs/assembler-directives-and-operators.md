@@ -1,4 +1,10 @@
-[`🏠`](/) `|` [`Go to Microprocessors`](/mp/) `|` [`Go Back`](/mp/mcqs/)
+[`🏠`](/) / [`Microprocessors`](/mp/) / [`MCQs`](/mp/mcqs/) / `Assembler Directives and Operators`
+ 
+<hr />
+
+[`Previous Years Solutions (May '19)`](/mp/previous-years/may-19/) [`MCQs`](/mp/mcqs/)
+
+<hr />
 
 ## Microprocessors Questions and Answers – Assembler Directives and Operators
 
