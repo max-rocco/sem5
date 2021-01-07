@@ -6,8 +6,6 @@
 
 <hr />
 
-# Mumbai University / Database Management Systems / MAY '19 / Solutions
-
 <a href="https://links.sem5.tk/dbms-m19" rel="noopener noreferrer" target="_blank">Question Paper</a>
 
 1. [Q1](/dbms/previous-years/may-19/q1)
