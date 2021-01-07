@@ -1,3 +1,5 @@
+[`🏠`](/) `|` [`Go to Microprocessors`](/mp/)] `|` [`Go Back`](/mp/mcqs/)
+
 ## Microprocessors Questions and Answers – Assembler Directives and Operators
 
 ### 1. The assembler directives which are the hints using some predefined alphabetical strings are given to
