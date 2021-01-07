@@ -1,4 +1,8 @@
-# Q. Explain pin diagram of 8086.
+[`🏠`](/) / [`Microprocessors`](/mp/) / [`Mock`](/mp/mock/) / [`Q2`](/mp/mock/q2/) / `Explain pin diagram of 8086.`
+
+<hr />
+
+### Q. Explain pin diagram of 8086.
 
 →  Intel 8086 is a 16-bit HMOS microprocessor. 
 It is available in 40 pin DIP chip. 
