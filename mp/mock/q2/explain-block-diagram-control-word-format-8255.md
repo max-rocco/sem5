@@ -1,4 +1,4 @@
-[`🏠`](/) / [`Microprocessors`](/mp/) / [`Mock`](/mp/mock/) / [`Q3`](/mp/mock/q3/) / `Explain block diagram & control word format of PPI 8255.`
+[`🏠`](/) / [`Microprocessors`](/mp/) / [`Mock`](/mp/mock/) / [`Q2`](/mp/mock/q2/) / `Explain block diagram & control word format of PPI 8255.`
 
 <hr />
 
