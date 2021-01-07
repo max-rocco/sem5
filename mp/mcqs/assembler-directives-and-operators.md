@@ -1,4 +1,4 @@
-[`🏠`](/) `|` [`Go to Microprocessors`](/mp/)] `|` [`Go Back`](/mp/mcqs/)
+[`🏠`](/) `|` [`Go to Microprocessors`](/mp/) `|` [`Go Back`](/mp/mcqs/)
 
 ## Microprocessors Questions and Answers – Assembler Directives and Operators
 
