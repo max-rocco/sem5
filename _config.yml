@@ -1,11 +1,18 @@
 theme: jekyll-theme-hacker
+
 plugins:
+  - jekyll-algolia
   - jekyll-sitemap
   - jekyll-seo-tag
   - jekyll-relative-links
   - jemoji
+
 relative_links:
   enabled: true
   collections: true
+
 include:
   - README.md
+
+algolia:
+  application_id: 'your_application_id'
