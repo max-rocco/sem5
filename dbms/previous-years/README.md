@@ -1,5 +1,3 @@
-# Database Management Systems / Previous Years Papers Solutions
-
 [`🏠`](/) / [`Database Management Systems`](/dbms/)
  
 <hr />
