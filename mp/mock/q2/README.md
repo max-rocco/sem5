@@ -1,4 +1,10 @@
-[`⬅`](/mp/mock/) `|` [`🏠`](/) `|` [`Microprocessors`](/mp/) `|` [`Previous Years Solutions (May '19)`](/mp/previous-years/may-19/) `|` [`MCQs`](/mp/mcqs/)
+[`🏠`](/) / [`Microprocessors`](/mp/) / [`Mock`](/mp/mock/) / [`Q2`](/mp/mock/q2/)
+ 
+<hr />
+
+[`Previous Years Solutions (May '19)`](/mp/previous-years/may-19/) [`MCQs`](/mp/mcqs/)
+
+<hr />
 
 ## Q2 From Mock Test
 
