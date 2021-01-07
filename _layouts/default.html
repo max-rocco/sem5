@@ -58,24 +58,30 @@
     </div>
 
     <script>
-      const search = instantsearch(options);
+      const search = instantsearch({
+        appId: "K28DR6OMX5",
+        apiKey: "748b43b25b823809a17307fa5f043d2b",
+        indexName: "solutions.sem5.tk",
+        routing: true,
+      });
 
       // initialize SearchBox
       search.addWidget(
         instantsearch.widgets.searchBox({
-          container: '#search-box',
-          placeholder: 'Search for products'
+          container: "#search-box",
+          placeholder: "Search for products",
         })
       );
 
       // initialize hits widget
       search.addWidget(
         instantsearch.widgets.hits({
-          container: '#hits'
+          container: "#hits",
         })
       );
 
       search.start();
     </script>
+
   </body>
 </html>
