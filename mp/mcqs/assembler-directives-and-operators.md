@@ -30,3 +30,22 @@ ASSUME segment:segment_name
 Example
 ASSUME CS:Code
 ```
+
+<hr />
+
+3. Match the following
+
+```
+a) DB     1) used to direct the assembler to reserve only 10-bytes
+b) DT     2) used to direct the assembler to reserve only 4 words
+c) DW     3) used to direct the assembler to reserve byte or bytes
+d) DQ     4) used to direct the assembler to reserve words
+
+```
+
+* [ ] a-3, b-2, c-4, d-1
+* [ ] a-2, b-3, c-1, d-4
+* [ ] a-3, b-1, c-2, d-4
+* [x] a-3, b-1, c-4, d-2
+
+Explanation: These directives are used for allocating memory locations in the available memory.
