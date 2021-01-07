@@ -4,7 +4,7 @@
 
 [Question Paper](https://links.sem5.tk/mp-m19)
 
-1. Q1
+1. [Q1](/mp/previous-years/may-19/q1)
 2. Q2
 3. Q3
 4. Q4
