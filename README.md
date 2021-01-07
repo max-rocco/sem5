@@ -1,3 +1,3 @@
-# Everything Semester 5! :tada:
+# Everything Semester 5! ⚡
 
 ## 1. [Microprocessors](/mp/)
