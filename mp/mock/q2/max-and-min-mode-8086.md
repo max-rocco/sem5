@@ -1,4 +1,8 @@
-# Q. Explain maximum & minimum mode of 8086 configuration with diagram.
+[`🏠`](/) / [`Microprocessors`](/mp/) / [`Mock`](/mp/mock/) / [`Q2`](/mp/mock/q2/) / `Explain maximum & minimum mode of 8086 configuration with diagram.`
+
+<hr />
+
+### Q. Explain maximum & minimum mode of 8086 configuration with diagram.
 
 → **Minimum mode**
 
