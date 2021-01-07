@@ -40,7 +40,6 @@ a) DB     1) used to direct the assembler to reserve only 10-bytes
 b) DT     2) used to direct the assembler to reserve only 4 words
 c) DW     3) used to direct the assembler to reserve byte or bytes
 d) DQ     4) used to direct the assembler to reserve words
-
 ```
 
 * [ ] a-3, b-2, c-4, d-1
