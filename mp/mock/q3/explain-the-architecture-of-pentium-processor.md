@@ -1,4 +1,8 @@
-# Q. Explain the architecture of the Pentium processor.
+[`🏠`](/) / [`Microprocessors`](/mp/) / [`Mock`](/mp/mock/) / [`Q3`](/mp/mock/q3/) / `Explain the architecture of the Pentium processor.`
+
+<hr />
+
+### Q. Explain the architecture of the Pentium processor.
 
 → The Pentium family of processors originated from the 80486 microprocessor.
 The term 'Pentium processor' refers to a family of microprocessors that share a common architecture and instruction set.
