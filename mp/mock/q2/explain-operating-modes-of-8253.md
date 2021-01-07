@@ -1,4 +1,8 @@
-# Q. Explain operating modes of 8253 with timing diagram.
+[`🏠`](/) / [`Microprocessors`](/mp/) / [`Mock`](/mp/mock/) / [`Q2`](/mp/mock/q2/) / `Explain operating modes of 8253 with timing diagram.`
+
+<hr />
+
+### Q. Explain operating modes of 8253 with timing diagram.
 
 → 8253/54 can be operated in 6 different modes.
 
