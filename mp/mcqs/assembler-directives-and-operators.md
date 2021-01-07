@@ -1,6 +1,6 @@
 ## Microprocessors Questions and Answers – Assembler Directives and Operators
 
-1. The assembler directives which are the hints using some predefined alphabetical strings are given to
+### 1. The assembler directives which are the hints using some predefined alphabetical strings are given to
 
 * [ ] processor
 * [ ] memory
@@ -13,7 +13,7 @@ to prepare the codes.
 
 <hr />
 
-2. The directive used to inform the assembler, the names of the logical segments to be assumed 
+### 2. The directive used to inform the assembler, the names of the logical segments to be assumed 
 for different segments used in the program is
 
 * [x] ASSUME
@@ -33,7 +33,7 @@ ASSUME CS:Code
 
 <hr />
 
-3. Match the following
+### 3. Match the following
 
 ```
 a) DB     1) used to direct the assembler to reserve only 10-bytes
@@ -51,7 +51,7 @@ Explanation: These directives are used for allocating memory locations in the av
 
 <hr />
 
-4. The directive that marks the end of an assembly language program is
+### 4. The directive that marks the end of an assembly language program is
 
 * [ ] ENDS
 * [x] END
@@ -62,7 +62,7 @@ Explanation: The directive END is used to denote the completion of the program.
 
 <hr />
 
-5. The directive that marks the end of a logical segment is
+### 5. The directive that marks the end of a logical segment is
 
 * [x] ENDS
 * [ ] END
@@ -73,7 +73,7 @@ Explanation: The directive ENDS is used to end a segment where as the directive 
 
 <hr />
 
-6. The directive that updates the location counter to the next even address while executing a series of instructions is
+### 6. The directive that updates the location counter to the next even address while executing a series of instructions is
 
 * [ ] EVN
 * [x] EVEN
@@ -84,7 +84,7 @@ Explanation: The directive updates location counter to next even address if the 
 
 <hr />
 
-7. The directive that directs the assembler to start the memory allotment for a particular segment/block/code from the declared address is
+### 7. The directive that directs the assembler to start the memory allotment for a particular segment/block/code from the declared address is
 
 * [ ] OFFSET
 * [ ] LABEL
@@ -96,7 +96,7 @@ If the directive is not present, then the location counter is initialized to 000
 
 <hr />
 
-8. The directive that marks the starting of the logical segment is
+### 8. The directive that marks the starting of the logical segment is
 
 * [ ] SEG
 * [x] SEGMENT
@@ -107,7 +107,7 @@ Explanation: The directive SEGMENT indicates the beginning of the segment.
 
 <hr />
 
-9. The recurrence of the numerical values or constants in a program code is reduced by
+### 9. The recurrence of the numerical values or constants in a program code is reduced by
 
 * [ ] ASSUME
 * [ ] LOCAL
@@ -118,7 +118,7 @@ Explanation: In this, the recurring/repeating value is assigned with a label. Th
 
 <hr />
 
-10. The labels or constants that can be used by any module in the program is possible when they are declared as
+### 10. The labels or constants that can be used by any module in the program is possible when they are declared as
 
 * [ ] PUBLIC
 * [ ] LOCAL
