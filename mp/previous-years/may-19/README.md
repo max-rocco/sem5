@@ -8,7 +8,7 @@
 
 # Mumbai University / Microprocessors / MAY '19 / Solutions
 
-## [Question Paper](https://links.sem5.tk/mp-m19)
+<a href="https://links.sem5.tk/mp-m19" rel="noopener noreferrer" target="_blank">Question Paper</a>
 
 1. [Q1](/mp/previous-years/may-19/q1)
 2. [Q2](/mp/previous-years/may-19/q2)
