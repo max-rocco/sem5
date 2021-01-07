@@ -1,7 +1,3 @@
----
-permalink: /microprocessors/
----
-
 [`🏠`](/) / [`Microprocessors`](/mp/)
  
 <hr />
