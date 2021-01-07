@@ -1,6 +1,3 @@
-# url: https://max-rocco.github.io/sem5
-# baseurl: /sem5
-# remote_theme: andrewhwanpark/dark-poole
 theme: jekyll-theme-minimal
 
 plugins:
