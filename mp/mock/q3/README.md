@@ -1,6 +1,6 @@
- [`🏠`](/) / [`Microprocessors`](/mp/) / [`Mock`](/mp/mock/) / [`Q3`](/mp/mock/q3/)
+[`🏠`](/) / [`Microprocessors`](/mp/) / [`Mock`](/mp/mock/) / [`Q3`](/mp/mock/q3/)
  
- <hr />
+<hr />
 
 [`Previous Years Solutions (May '19)`](/mp/previous-years/may-19/) [`MCQs`](/mp/mcqs/)
 
