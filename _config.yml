@@ -1,7 +1,7 @@
 # theme: jekyll-theme-hacker
 remote_theme: andrewhwanpark/dark-poole
-url: https://solutions.sem5.tk
-baseurl: ""
+url: https://max-rocco.github.io/sem5
+baseurl: /sem5
 
 plugins:
   - jekyll-sitemap
