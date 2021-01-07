@@ -1,4 +1,4 @@
-[`🏠`](/) `|` [`Go to Microprocessors`](/mp/)
+[`◀`](/mp/previous-years/) [`🏠`](/) [`Microprocessors`](/mp/) [`MCQs`](/mp/mcqs) [`Mock`](/mp/mock/)
 
 # Mumbai University / Microprocessors / MAY '19 / Solutions
 
