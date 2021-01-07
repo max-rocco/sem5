@@ -1,4 +1,10 @@
-[`🏠`](/)
+[`🏠`](/) / [`Microprocessors`](/mp/)
+ 
+<hr />
+
+[`Previous Years Solutions (May '19)`](/mp/previous-years/may-19/) [`MCQs`](/mp/mcqs/)
+
+<hr />
 
 # Microprocessors
 
