@@ -1,4 +1,4 @@
-[`🏠`](/) / [`Database Management Systems`](/dbms/) / [`Previous Years`](/dbms/previous-years/) / [`May 2019`](/dbms/previous-years/may-19/)
+[`🏠`](/) / [`Database Management Systems`](/dbms/) / [`Previous Years`](/dbms/previous-years/) / `May 2019`
  
 <hr />
 
