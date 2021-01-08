@@ -1,3 +1,7 @@
+---
+layout: subject
+---
+
 [`🏠`](/) / [`Microprocessors`](/mp/)
  
 <hr />
