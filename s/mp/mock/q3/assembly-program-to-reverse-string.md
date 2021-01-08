@@ -1,4 +1,4 @@
-[`🏠`](/) / [`Microprocessors`](/mp/) / [`Mock`](/mp/mock/) / [`Q3`](/mp/mock/q3/) / `Write an assembly language program to reverse a string.`
+[`🏠`](/) / [`Microprocessors`](/s/mp/) / [`Mock`](/s/mp/mock/) / [`Q3`](/s/mp/mock/q3/) / `Write an assembly language program to reverse a string.`
 
 <hr />
 
@@ -6,94 +6,94 @@
 
 → Source code by [GeeksForGeeks](https://www.geeksforgeeks.org/8086-program-to-reverse-a-string/).
 ```asm
-.MODEL SMALL 
-.STACK 100H 
-.DATA 
+.MODEL SMALL
+.STACK 100H
+.DATA
 
-; The string to be printed 
+; The string to be printed
 STRING DB 'This is a sample string', '$'
 
-.CODE 
-MAIN PROC FAR 
-MOV AX,@DATA 
+.CODE
+MAIN PROC FAR
+MOV AX,@DATA
 MOV DS,AX 
 
-; call reverse function 
-CALL REVERSE 
+; call reverse function
+CALL REVERSE
 
-; load address of the string 
-LEA DX,STRING 
+; load address of the string
+LEA DX,STRING
 
-; output the string 
-; loaded in dx 
-MOV AH, 09H 
-INT 21H 
+; output the string
+; loaded in dx
+MOV AH, 09H
+INT 21H
 
 ; interrupt to exit
-MOV AH, 4CH 
-INT 21H 
+MOV AH, 4CH
+INT 21H
 
-MAIN ENDP 
-REVERSE PROC 
-	; load the offset of 
-	; the string 
-	MOV SI, OFFSET STRING 
+MAIN ENDP
+REVERSE PROC
+	; load the offset of
+	; the string
+	MOV SI, OFFSET STRING
 
-	; count of characters of the; 
-	;string 
-	MOV CX, 0H 
+	; count of characters of the;
+	;string
+	MOV CX, 0H
 
-	LOOP1: 
-	; compare if this is; 
-	;the last character 
-	MOV AX, [SI] 
+	LOOP1:
+	; compare if this is;
+	;the last character
+	MOV AX, [SI]
 	CMP AL, '$'
-	JE LABEL1 
+	JE LABEL1
 
-	; else push it in the; 
-	;stack 
-	PUSH [SI] 
+	; else push it in the;
+	;stack
+	PUSH [SI]
 
-	; increment the pointer; 
-	;and count 
-	INC SI 
-	INC CX 
+	; increment the pointer;
+	;and count
+	INC SI
+	INC CX
 
-	JMP LOOP1 
+	JMP LOOP1
 
-	LABEL1: 
-	; again load the starting; 
-	;address of the string 
-	MOV SI, OFFSET STRING 
+	LABEL1:
+	; again load the starting;
+	;address of the string
+	MOV SI, OFFSET STRING
 
-		LOOP2: 
-		;if count not equal to zero 
-		CMP CX,0 
-		JE EXIT 
+		LOOP2:
+		;if count not equal to zero
+		CMP CX,0
+		JE EXIT
 
-		; pop the top of stack 
-		POP DX 
+		; pop the top of stack
+		POP DX
 
-		; make dh, 0 
-		XOR DH, DH 
+		; make dh, 0
+		XOR DH, DH
 
-		; put the character of the; 
-		;reversed string 
-		MOV [SI], DX 
+		; put the character of the;
+		;reversed string
+		MOV [SI], DX
 
-		; increment si and; 
-		;decrement count 
-		INC SI 
-		DEC CX 
+		; increment si and;
+		;decrement count
+		INC SI
+		DEC CX
 
-		JMP LOOP2 
+		JMP LOOP2
 
-				
-	EXIT: 
-	; add $ to the end of string 
+
+	EXIT:
+	; add $ to the end of string
 	MOV [SI],'$ '
-	RET 
-		
-REVERSE ENDP 
-END MAIN 
+	RET
+
+REVERSE ENDP
+END MAIN
 ```

@@ -1,8 +1,8 @@
-[`🏠`](/) / [`Microprocessors`](/mp/) / [`MCQs`](/mp/mcqs/)
- 
+[`🏠`](/) / [`Microprocessors`](/s/mp/) / [`MCQs`](/s/mp/mcqs/)
+
 <hr />
 
-[`Previous Years Solutions (May '19)`](/mp/previous-years/may-19/) [`MCQs`](/mp/mcqs/)
+[`Previous Years Solutions (May '19)`](/s/mp/previous-years/may-19/) [`MCQs`](/s/mp/mcqs/)
 
 <hr />
 
@@ -10,4 +10,4 @@
 
 Topics
 
-1. [Assembler Directives & Operators](/mp/mcqs/assembler-directives-and-operators)
+1. [Assembler Directives & Operators](/s/mp/mcqs/assembler-directives-and-operators)

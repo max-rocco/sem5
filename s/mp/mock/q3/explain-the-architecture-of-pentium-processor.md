@@ -1,4 +1,4 @@
-[`🏠`](/) / [`Microprocessors`](/mp/) / [`Mock`](/mp/mock/) / [`Q3`](/mp/mock/q3/) / `Explain the architecture of the Pentium processor.`
+[`🏠`](/) / [`Microprocessors`](/s/mp/) / [`Mock`](/s/mp/mock/) / [`Q3`](/s/mp/mock/q3/) / `Explain the architecture of the Pentium processor.`
 
 <hr />
 

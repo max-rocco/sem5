@@ -1,4 +1,4 @@
-[`🏠`](/) / [`Microprocessors`](/mp/) / [`Mock`](/mp/mock/) / [`Q2`](/mp/mock/q2/) / `Explain operating modes of 8253 with timing diagram.`
+[`🏠`](/) / [`Microprocessors`](/s/mp/) / [`Mock`](/s/mp/mock/) / [`Q2`](/s/mp/mock/q2/) / `Explain operating modes of 8253 with timing diagram.`
 
 <hr />
 
@@ -10,7 +10,7 @@
 
 * It is used to generate an interrupt to the microprocessor after a certain interval.
 * Initially the output is low after the mode is set. The output remains LOW after the count value is loaded into the counter.
-* The process of decrementing the counter continues till the terminal count is reached, i.e., 
+* The process of decrementing the counter continues till the terminal count is reached, i.e.,
 the count become zero and the output goes HIGH and will remain high until it reloads a new count.
 * The GATE signal is high for normal counting. When GATE goes low, counting is terminated and the current count is latched till the GATE goes high again.
 

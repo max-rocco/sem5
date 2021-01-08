@@ -1,8 +1,8 @@
-[`🏠`](/) / [`Microprocessors`](/mp/) / [`MCQs`](/mp/mcqs/) / `Assembler Directives and Operators`
- 
+[`🏠`](/) / [`Microprocessors`](/s/mp/) / [`MCQs`](/s/mp/mcqs/) / `Assembler Directives and Operators`
+
 <hr />
 
-[`Previous Years Solutions (May '19)`](/mp/previous-years/may-19/) [`MCQs`](/mp/mcqs/)
+[`Previous Years Solutions (May '19)`](/s/mp/previous-years/may-19/) [`MCQs`](/s/mp/mcqs/)
 
 <hr />
 
@@ -15,13 +15,13 @@
 * [x] assembler
 * [ ] processor & assembler
 
-Explanation: 
-These directives help the assembler to correctly understand the assembly language programs 
+Explanation:
+These directives help the assembler to correctly understand the assembly language programs
 to prepare the codes.
 
 <hr />
 
-### 2. The directive used to inform the assembler, the names of the logical segments to be assumed 
+### 2. The directive used to inform the assembler, the names of the logical segments to be assumed
 for different segments used in the program is
 
 * [x] ASSUME
