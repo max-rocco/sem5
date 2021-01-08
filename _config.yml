@@ -1,7 +1,7 @@
 title: "Semester 5"
 
 # theme: jekyll-theme-hacker
-remote_theme: moonwalk
+remote_theme: abhinavs/moonwalk
 
 plugins:
   - jekyll-feed
