@@ -1,4 +1,4 @@
-### [🏠](/) / Database Management Systems
+### [:arrow_backward:](/) / Database Management Systems
 
 <hr />
 
