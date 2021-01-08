@@ -8,10 +8,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
   - jekyll-relative-links
-  - jekyll-picture-tag
-  - jekyll-pwa-workbox
   - jemoji
-  - searchyll
 
 relative_links:
   enabled: true
@@ -20,11 +17,15 @@ relative_links:
 include:
   - README.md
 
-# searchyll
-# https://github.com/omc/searchyll#configuration
-elasticsearch:
-  url: "https://solutions.sem5.tk"     # Required. Supports auth and SSL: https://user:pass@someurl.com
-  number_of_shards: 1                 # Optional. Default is 1 primary shard.
-  number_of_replicas: 1               # Optional. Default is 1 replica.
-  index_name: "jekyll"                # Optional. Default is "jekyll".
-  default_type: "post"                # Optional. Default type is "post".
+theme_config:
+  appearance: "dark"          # can be "light", "dark" or "auto"
+  back_home_text: "home.."    # customize text for homepage link in post layout
+  date_format: "%Y-%m-%d"     # customize how date is formatted
+  show_description: true      # show blog description in home page
+#   show_navbar: true           # show horizontal navbar in home page
+  show_footer: true           # show footer links in home page,add in _data/home.yml
+  show_projects: true         # show projects as cards, add in _data/home.yml
+#   show_old_projects: true     # show old projects as cards, add in _data/home.yml
+  show_misc_list: false       # show generic vertical list for misc details, add _data/home.yml
+#   show_soopr: true            # show share buttons using soopr
+#   soopr_base_url: "https://soopr.netlify.app"
