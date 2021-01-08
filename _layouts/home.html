@@ -8,14 +8,14 @@ layout: default
   <div class="dashed" />
 {% endif %}
 
-  <h1>{{ site.title }}</h1>
+  <h3 class="site-title">{{ site.title }}</h3>
   {% if site.theme_config.show_description == true %}
-    <p>{{ site.description }}</p>
+    <p class="site-description">{{ site.description }}</p>
   {% endif %}
 </header>
 
 {% if site.theme_config.show_projects == true %}
-  <h2>Subjects</h2>
+  <h3 id="subjects">Subjects</h3>
   {% include card_list.html collection=site.data.home.project_entries %}
 {% endif %}
 
