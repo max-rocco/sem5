@@ -1,8 +1,8 @@
 project_entries:
   - title: Microprocessors
-    url: mp
+    url: /s/mp/
     desc: Everything related to Microprocessors.
 
   - title: Database Management Systems
-    url: dbms
+    url: /s/dbms/
     desc: Everything related to Database Management Systems.
