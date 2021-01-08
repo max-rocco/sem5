@@ -6,3 +6,11 @@ project_entries:
   - title: Database Management Systems
     url: /s/dbms/
     desc: Everything related to Database Management Systems.
+    
+  - title: Computer Networks (:warning:)
+    url: /s/cn/
+    desc: Everything related to Computer Networks.
+
+  - title: Theory of Computer Science (:warning:)
+    url: /s/tcs/
+    desc: Everything related to Theory of Computer Science.
