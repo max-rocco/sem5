@@ -1,8 +1,4 @@
 project_entries:
-  - title: Microprocessors
-    url: /s/mp/
-    desc: Everything related to Microprocessors.
-
   - title: Database Management Systems
     url: /s/dbms/
     desc: Everything related to Database Management Systems.
@@ -14,3 +10,7 @@ project_entries:
   - title: Theory of Computer Science
     url: /s/tcs/
     desc: Everything related to Theory of Computer Science.
+
+  - title: Microprocessors
+    url: /s/mp/
+    desc: Everything related to Microprocessors.
