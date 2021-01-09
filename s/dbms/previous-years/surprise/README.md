@@ -20,3 +20,9 @@ D. [Create a trigger that activates when the BEFORE UPDATE event of employee tab
 E. [Let R = (A, B, C, D, E) be a relation scheme with the following dependencies.](/s/dbms/previous-years/surprise/q2#q2e-let-r--a-b-c-d-e-be-a-relation-scheme-with-the-following-dependencies)
 
 F. [Consider a relation schema R = (A, B, C, D) with the following functional dependencies.](/s/dbms/previous-years/surprise/q2#q2f-consider-a-relation-schema-r--a-b-c-d-with-the-following-functional-dependencies)
+
+# Q3.
+
+A. [Galleries keep information about artists, their names (which are unique), birthplaces, age, and style of art.](/s/dbms/previous-years/surprise/q3#q3a-galleries-keep-information-about-artists-their-names-which-are-unique-birthplaces-age-and-style-of-art)
+
+B. [Consider the following relation.](/s/dbms/previous-years/surprise/q3#q3b-consider-the-following-relation)
