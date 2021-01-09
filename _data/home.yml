@@ -1,8 +1,4 @@
 project_entries:
-  - title: Database Management Systems
-    url: /s/dbms/
-    desc: Everything related to Database Management Systems.
-    
   - title: Computer Networks
     url: /s/cn/
     desc: Everything related to Computer Networks.
@@ -14,3 +10,7 @@ project_entries:
   - title: Microprocessors
     url: /s/mp/
     desc: Everything related to Microprocessors.
+
+  - title: Database Management Systems
+    url: /s/dbms/
+    desc: Everything related to Database Management Systems.
