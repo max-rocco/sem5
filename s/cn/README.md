@@ -3,4 +3,4 @@
 <hr />
 
 1. MCQs
-2. Previous Years Papers
+2. [Previous Years Papers](/s/cn/papers/)
