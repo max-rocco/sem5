@@ -34,8 +34,8 @@ ORDER BY name;
 
 ![](https://i.imgur.com/kVzVLKt.png)
 
-* [x] 2 
-* [ ] 3 
+* [ ] 2 
+* [x] 3 
 * [ ] 4 
 * [ ] 5
 
