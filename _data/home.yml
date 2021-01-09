@@ -6,6 +6,10 @@ project_entries:
   - title: Theory of Computer Science
     url: /s/tcs/
     desc: Everything related to Theory of Computer Science.
+    
+  - title: Advanced Algorithms
+    url: /s/aa/
+    desc: Everything related to Advanced Algorithms.
 
   - title: Microprocessors
     url: /s/mp/
