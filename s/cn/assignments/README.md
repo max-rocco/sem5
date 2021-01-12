@@ -1,4 +1,4 @@
-[`🏠`](/) / `Computer Networks`
+[`🏠`](/) / [`Computer Networks`](/s/cn/) / `Assignments`
 
 <hr />
 
